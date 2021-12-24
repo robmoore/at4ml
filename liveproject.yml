@@ -1,0 +1,35 @@
+name: liveproject
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+  - quantopian
+  - ranaroussi
+  - jiayi_anaconda
+dependencies:
+  - autopep8
+  - ipykernel
+  - joblib
+  - jupyter
+  - jupyterlab
+  - lightgbm
+  - matplotlib
+  - nb_conda_kernels
+  - numpy
+  - pandas
+  - pandas-datareader
+  - patsy
+  - pip
+  - pytables
+  - python=3.8
+  - requests
+  - scikit-image
+  - scikit-learn
+  - seaborn
+  - shap
+  - snappy
+  - statsmodels
+  - ta-lib
+  - pip:
+    - alphalens
+    - empyrical

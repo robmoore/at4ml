@@ -1,0 +1,34 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+ta-lib = "*"
+statsmodels = "*"
+numpy = "*"
+pandas = "*"
+jupyterlab = "*"
+lightgbm = "*"
+autopep8 = "*"
+ipykernel = "*"
+joblib = "*"
+jupyter = "*"
+matplotlib = "*"
+pandas-datareader = "*"
+patsy = "*"
+scikit-image = "*"
+seaborn = "*"
+shap = "*"
+snappy = "*"
+alphalens = "*"
+empyrical = "*"
+zipline-reloaded = "*"
+python-dotenv = "*"
+quandl = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
