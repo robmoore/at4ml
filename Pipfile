@@ -27,6 +27,8 @@ empyrical = "*"
 zipline-reloaded = "*"
 python-dotenv = "*"
 quandl = "*"
+black = {extras = ["jupyter"], version = "*"}
+gdown = "*"
 
 [dev-packages]
 
