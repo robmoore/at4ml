@@ -6,3 +6,4 @@
 *.zip
 *.gz
 *.csv
+/solutions/.ipynb_checkpoints/
